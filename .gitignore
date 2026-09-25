@@ -1,0 +1,11 @@
+# OS / editor
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# documents do not belong to the package (make_report.py writes them elsewhere)
+*.pdf
+*.tex
+*.aux
+*.log
